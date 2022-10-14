@@ -105,7 +105,7 @@ if(gen.isSelected()){
 }
             if(ic.isSelected())
             {
-                roomtype="ICCU";
+                roomtype="ICU";
             }
    int noofbeds=Integer.parseInt(t2.getText());
              int charges=Integer.parseInt(t3.getText());
