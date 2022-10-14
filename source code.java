@@ -255,7 +255,7 @@ import java.sql.*;
 import java.sql.Connection;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-/**
+
 //DISPLAY Button:
 private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
 try{
